@@ -1,5 +1,20 @@
-#  Calculator
+# 🧮 Calculator & Web Development Projects
 
-A simple dark mode calculator built with simple HTML and CSS, styled using fixed pixel layout and custom depth shadows. JavaScript functionality will be integrated in upcoming updates to handle live mathematical operations.
+Welcome to this repository! Originally built for a dark-mode Calculator project, this repository now hosts a collection of HTML5 & CSS3 web development templates, lab tasks, and UI clones.
 
-[🚀 View Live Demo](https://simplecalculor.netlify.app/)
+🚀 **[View Live Calculator Demo](https://simplecalculor.netlify.app/)**
+
+---
+
+## 📁 Repository Structure
+
+```text
+.
+├── facebook home page/    # Facebook home page clone
+├── IEEE Template/         # Academic IEEE standard paper template
+├── Portfolio/             # Personal developer portfolio page
+├── timetable/             # Weekly schedule/timetable layout
+├── TradeTester/           # Trading UI layout component
+├── index.html             # Main Calculator HTML
+├── style.css             # Main Calculator CSS
+└── README.md
